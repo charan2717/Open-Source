@@ -1,1 +1,34 @@
-# Open-Source
+# 📝 Write It – Simple Free Notes App
+
+**Write It** is a free, open-source notes editor built with Python. It’s simple, fast, and works offline!
+
+🔽 **Download Now**  
+👉 [Download Write It (.exe)](https://drive.google.com/uc?export=download&id=your_file_id)
+
+🔓 Licensed under [GNU GPL v3](LICENSE)
+
+📦 [Source Code](https://github.com/your-username/write-it)
+
+---
+
+## Features
+- Font and size changes
+- Save/load notes
+- Lightweight .exe
+- This is currently running in beta version where you have to download this and you can directly run this in your laptop as this doesnt require any type of installation.
+- This software model is going to get so many developments sooner.
+- The storage will be in your device as it doesn't require any cloud access and it wont be stored.
+
+## How to install it if using the source code
+
+- Make sure that the requirements in the source code are installed
+- Open command Prompt and use this
+- "File path location" --noconfirm --onefile --windowed --name "Write it V-2a(You can change the name)" notes_app.py
+
+## News
+
+- The exe file is still considered to be a beta version becuase there are bugs that needs to be solved.
+- Another few features are also needed to be added.
+- If anyone is willing to help in this project. Mail : charanachanta2@gmail.com.
+
+Thank you for using this App.
