@@ -3,7 +3,7 @@
 **Write It** is a free, open-source notes editor built with Python. It’s simple, fast, and works offline!
 
 🔽 **Download Now**  
-👉 [Download Write It (.exe)](https://drive.google.com/uc?export=download&id=your_file_id)
+👉 [Download Write It (.exe)](https://drive.google.com/file/d/188bg6_MJTYIb-riLlE5Zc6w7UE8Og5hB/view?usp=sharing)
 
 🔓 Licensed under [GNU GPL v3](LICENSE)
 
